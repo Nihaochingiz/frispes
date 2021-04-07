@@ -1,0 +1,73 @@
+
+.header {
+    display: flex;
+
+}
+
+.logo  > a {
+    width: 800;
+    margin: auto;
+
+}
+
+ul.nav {
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none;
+    margin-left: 30vw;
+    padding: 0;
+	height:50px;
+   }
+   ul.nav li  a {
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 20px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+color: #222831;
+text-decoration: none;
+
+   }
+ ul.nav li  a:hover {
+    color:#FF5722;
+
+   }
+
+   .userlogsign {
+   display: flex;
+  flex-direction: row;
+ align-items: center;
+  padding: 12px 50px;
+   }
+
+
+   .log > a {
+    position: relative;
+    right: 10px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+    color: #FF5722;
+   }
+
+   .signup > a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 24px;
+    background: #FF5722;
+    box-shadow: 0px 4px 16px rgba(255, 87, 34, 0.32);
+    color: #FFFFFF;
+   }
