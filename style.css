@@ -5,8 +5,10 @@
 }
 
 .logo  > a {
+  position: relative;
     width: 800;
     margin: auto;
+
 
 }
 
@@ -71,3 +73,70 @@ text-decoration: none;
     box-shadow: 0px 4px 16px rgba(255, 87, 34, 0.32);
     color: #FFFFFF;
    }
+
+
+   .introducing {
+    display: flex;
+    flex-direction: row;
+   }
+
+
+  .introducing p {
+    position: relative;
+    font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  left: 165px;
+  top: 120px;
+  }
+
+  .introducing img {
+    position: absolute;
+width: 73px;
+height: 2px;
+left: 290px;
+top: 230px;
+  }
+
+
+  .content h1 {
+    font-family: Lora;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 52px;
+    line-height: 67px;
+    position: absolute;
+width: 667px;
+height: 201px;
+left: 165px;
+top: 198px;
+  }
+
+
+  .content p {
+    position: absolute;
+    width: 382px;
+    height: 120px;
+    left: 893px;
+    top: 208px;
+    font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+
+
+color: #6A6A6A;
+  }
+
+
+  .imgslider  {
+    position: relative;
+    width: 1110px;
+height: 566px;
+left: 165px;
+top: 432px;
+  }
