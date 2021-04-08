@@ -219,3 +219,25 @@ top: 1144.47px;
   position: relative;
   top: -30px;
 }
+
+.numbers {
+  position: absolute;
+  left: 640px;
+  top: 1850px;
+}
+
+.numbers  p {
+  position: relative;
+  left:  60px;
+  top: -10px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  color: #222831;
+}
+
+.numbers  p:hover {
+  color: #9A9A9A;
+}
