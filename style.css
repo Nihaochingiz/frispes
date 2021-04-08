@@ -140,3 +140,82 @@ height: 566px;
 left: 165px;
 top: 432px;
   }
+
+
+  .spacesection {
+  
+  }
+
+
+
+
+
+  .spacesection h2 {
+    font-family: Lora;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 51px;
+color: #10375C;
+position: absolute;
+width: 216px;
+height: 51px;
+left: 165px;
+top: 1212px;
+  }
+
+
+  .spacesection p {
+    position: absolute;
+width: 452px;
+height: 56px;
+left: 545px;
+top: 1212px;
+font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+color: #9A9A9A;
+  }
+
+
+.arrows {
+  position: relative;
+  left: 1094px;
+  top: 540px;
+}
+
+.leftarrow {
+  
+  width: 91.69px;
+height: 26.05px;
+left: 1182px;
+top: 1144.47px;
+}
+
+.rightarrow {
+  
+width: 91.69px;
+height: 26.05px;
+left: 1182px;
+top: 1144.47px;
+}
+
+
+.space-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr ;
+  
+  position: absolute;
+  width: 350px;
+  height: 420px;
+  left: 170px;
+  top: 1350px;
+}
+
+
+ .space2 {
+  position: relative;
+  top: -30px;
+}
