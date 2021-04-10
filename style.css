@@ -288,3 +288,131 @@ line-height: 41px;
 
 
 
+
+.werevolut {
+  position: relative;
+  background-color: #10375C;
+  width: 540px;
+  height: 421px;
+  left: 735px;
+  top: 753px;
+
+  }
+
+
+  .textheader {
+ white-space: nowrap;
+width: 109px;
+height: 30px;
+left: 0px;
+top: 0px;
+
+/* Body / Extra Large - Medium */
+
+font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+
+/* Color / White */
+
+color: #FFFFFF;
+
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 15px;
+  }
+
+
+
+  .werevolut p {
+    width: 433px;
+height: 150px;
+left: 788px;
+top: 2111px;
+
+/* Body / Extra Large - Medium */
+
+font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+
+
+/* Color / White */
+
+color: #FFFFFF;
+
+  }
+
+  .werevolut h2 {
+    position: absolute;
+width: 433px;
+height: 102px;
+left: 788px;
+top: 1985px;
+
+/* Heading / H2 */
+
+font-family: Lora;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 51px;
+
+/* Color / White */
+
+color: #FFFFFF;
+  }
+
+.ourfacilities h2 {
+  position: inherit;
+  width: 570px;
+height: 102px;
+left: 165px;
+top: 2464px;
+
+/* Heading / H2 */
+
+font-family: Lora;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 51px;
+}
+
+.navcafe {
+  position: relative;
+  display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 293px;
+height: 360px;
+left: 165px;
+top: 2622px;
+flex: none;
+order: 4;
+flex-grow: 0;
+margin: 0px 0px;
+}
+
+.cafeimg {
+  position: relative;
+  width: 729px;
+  height: 453px;
+  left: 546px;
+  top: 850px;
+}
+
