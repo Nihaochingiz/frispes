@@ -13,8 +13,8 @@
 }
 
 ul.nav {
-    margin: 0; /* Обнуляем значение отступов */
-    padding: 4px; /* Значение полей */
+    margin: 0; 
+    padding: 4px; 
     display:flex;
     flex-direction: row;
     justify-content: space-between;
@@ -241,3 +241,50 @@ top: 1144.47px;
 .numbers  p:hover {
   color: #9A9A9A;
 }
+
+
+.oursupport {
+  position: relative;
+  top: 1300px;
+  left: 188px;
+  display: grid;
+  grid-template-columns: repeat(2,250px);  /* 3 columns */
+  grid-template-rows: repeat(3,150px); /* 3 rows  */
+  grid-gap:50px 20px; /* 50 pixels of space added between rows and 30 pixels added between columns  */
+}
+
+.oursupport h3 {
+   position: relative; 
+  width: 75px;
+ height: 41px;
+ left: 10px;
+ top: 0px;
+ display: inline;
+
+/* Heading / H3 */
+
+font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 41px;
+}
+
+.oursupport p {
+     position: relative;
+  width: 107px;
+  height: 26px;
+  left: 45px;
+  top: -7px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #9A9A9A;
+  white-space: nowrap;
+
+}
+
+
+
