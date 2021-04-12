@@ -463,3 +463,94 @@ line-height: 51px;
 
 }
 
+
+.frispes-gallery p {
+  position: relative;
+ left: 746px;
+  top: 950px;
+  font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+}
+
+.frispes-gallery-line {
+  position: relative;
+  left: 886px;
+  top: 900px;
+}
+
+
+.frispes-gallery h2 {
+  position: relative;
+  font-family: Lora;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 51px;
+left: 746px;
+top: 890px;
+}
+
+
+/* Осталось*/
+
+
+
+
+
+
+ .who-uses-frispes p {
+  position: relative;
+  right: 120px;
+  top: 1400px;
+  font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+text-align: center;
+
+/* Color / Gray 1 */
+
+color: #9A9A9A;
+
+}
+
+ .who-uses-frispes h2 {
+  position: relative;
+  top: 1400px;
+  font-family: Lora;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 51px;
+  left: 726px;
+  color: #0D2C4A;
+
+
+ }
+
+
+.brands {
+  position: relative;
+  top: 1500px;
+  left: 310px;
+  list-style: none;
+  display: inline;
+}
+
+
+.brands li {
+  display: inline;
+  padding: 40px;
+}
+
+
+
+
+
