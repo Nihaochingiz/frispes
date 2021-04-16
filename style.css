@@ -505,7 +505,7 @@ top: 890px;
 
  .who-uses-frispes p {
   position: relative;
-  right: 120px;
+  right: 50px;
   top: 1400px;
   font-family: Lato;
 font-style: normal;
@@ -599,4 +599,106 @@ top: 600px;
 
 .slider4 {
  margin-right:  10px;
+}
+
+.customers--saying {
+  position: absolute;
+  top: 4600px;
+  left: 450px;
+
+
+}
+
+
+.customers--saying h2 {
+  font-family: Lora;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 51px;
+margin-top: 4px;
+/* Brand Colopadding-top:  1px;r / Primary */
+
+color: #10375C;
+}
+
+
+.customers--saying p {
+font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+}
+
+
+
+
+
+
+
+
+
+.blue__squares  p {
+  
+  font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+/* Color / White */
+
+color: #FFFFFF;
+
+
+
+}
+
+.square__Pedro {
+position: absolute;
+width: 445px;
+height: 393px;
+left: 5px;
+top: 239px;
+
+/* Brand Color / Primary */
+
+background: #10375C;
+}
+
+.square__Raymond {
+
+position: absolute;
+width: 445px;
+height: 393px;
+left: 490px;
+top: 239px;
+
+/* Brand Color / Primary */
+
+background: #10375C;
+
+}
+
+.square__Yuli{
+position: absolute;
+width: 445px;
+height: 393px;
+left: 1000px;
+top: 239px;
+
+/* Brand Color / Primary */
+
+background: #10375C;
+}
+
+
+.arrows3 {
+  position: relative;
+  left: 1040px;
+  top: 10px;
 }
