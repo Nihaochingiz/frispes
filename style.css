@@ -702,3 +702,37 @@ background: #10375C;
   left: 1040px;
   top: 10px;
 }
+
+
+.boxes {
+  display: grid;
+  grid-template-columns: 500px 600px 600px ;
+  position: relative;
+  left: 210px;
+  top: 1800px;
+
+}
+
+.news-insights   h2 {
+  position: relative;
+  top: 2000px;
+font-family: Lora;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 51px;
+
+/* Brand Color / Primary */
+
+color: #10375C;
+}
+
+
+
+.container-news {
+  position: relative;
+  top: 2000px;
+  display: grid;
+  grid-area: 1 / 1 / 4 / 2;
+  
+}
