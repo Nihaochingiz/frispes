@@ -733,6 +733,74 @@ color: #10375C;
   position: relative;
   top: 2000px;
   display: grid;
-  grid-area: 1 / 1 / 4 / 2;
+  grid-template-columns: 350px 350px 350px;
   
 }
+
+footer {
+  width: 1440px;
+height: 408px;
+  left: 0px;
+  top: 1970px;
+  background: #0D2C4A;
+  position: relative;
+
+   
+}
+
+
+footer h1 {
+  font-family: Lora;
+font-style: normal;
+font-weight: bold;
+font-size: 52px;
+line-height: 67px;
+/* identical to box height */
+
+
+/* Color / White */
+
+color: #FFFFFF;
+}
+
+
+footer p {
+  font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+padding:auto;
+margin: 20px;
+text-align: left;
+/* Color / Gray 4 */
+
+color: #F8F8F8;
+width: 255px;
+height: 104px;
+left: 165px;
+top: 6511px;
+}
+
+.social-media {
+display: inline;
+padding-left: 20px;
+margin-right: 16px;
+
+}
+
+
+.instagram {
+  margin-right: 16px;
+}
+
+.youtube {
+  margin-right: 16px;
+}
+
+.facebook {
+  margin-right: 16px;
+}
+
+
